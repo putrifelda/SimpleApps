@@ -1,0 +1,56 @@
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.exe
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.deps.json
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.runtimeconfig.json
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.runtimeconfig.dev.json
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.dll
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.pdb
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.csproj.AssemblyReference.cache
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.Form1.resources
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.csproj.GenerateResource.cache
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.AssemblyInfoInputs.cache
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.AssemblyInfo.cs
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.dll
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.pdb
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.genruntimeconfig.cache
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormBiodata.resources
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormKalkulator.resources
+D:\SEMESTER 3\PEMROG LANJUT\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormKonversiSuhu.resources
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.exe
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.deps.json
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.runtimeconfig.json
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.dll
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.pdb
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.Form1.resources
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormBiodata.resources
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormKalkulator.resources
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormKonversiSuhu.resources
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.dll
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.pdb
+C:\Users\ASUS\Documents\Pemro\fgwSsssss\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.Form1.resources
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormBiodata.resources
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormKalkulator.resources
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormKasir.resources
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.FormKonversiSuhu.resources
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.dll
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.pdb
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.exe
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.deps.json
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.runtimeconfig.json
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.dll
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\bin\Debug\netcoreapp3.1\SimpleApp01.pdb
+C:\Users\ASUS\Documents\Pemro\daff\SimpleApp01\SimpleApp01\obj\Debug\netcoreapp3.1\SimpleApp01.genruntimeconfig.cache
